@@ -1,0 +1,14 @@
+slack_bolt
+requests
+beautifulsoup4
+duckduckgo-search
+reportlab
+sendgrid
+supabase
+python-dotenv
+sentence_transformers
+scikit-learn
+google-generativeai
+numpy 
+pandas
+

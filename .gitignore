@@ -1,0 +1,5 @@
+slackbott/
+pycache/
+.env
+ngrok
+*.pyc
